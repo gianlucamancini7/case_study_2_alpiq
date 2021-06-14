@@ -44,6 +44,9 @@ pip install -r requirements.txt
 And you should be good to go and start exploring the code!
 
 #### Dashboard
+
+![Alt text](reports/dashboard_view?raw=true "Title")
+
 To use the dashboad it is important not to change the file structure in the ```data``` folder. The dashboard works locally on your computer and it serves as a visualization and exploration tool based on the processed data obtained in the analysis. To use the dashboard run the following from the terminal or anaconda prompt:
 
 ```
