@@ -45,7 +45,7 @@ And you should be good to go and start exploring the code!
 
 #### Dashboard
 
-![alt text](https://github.com/[gianlucamancini7]/[case_study_2_alpiq]/blob/[master]/reports/dashboard_view.png?raw=true)
+![Alt text](reports/dashboard_view.png?raw=true "Dashboard View")
 
 To use the dashboad it is important not to change the file structure in the ```data``` folder. The dashboard works locally on your computer and it serves as a visualization and exploration tool based on the processed data obtained in the analysis. To use the dashboard run the following from the terminal or anaconda prompt:
 
